@@ -3,3 +3,8 @@
   text-align: center;
   color: hsl(228, 45%, 44%);
 }
+.QR {
+  color: blue;
+  background: url(./images/image-qr-code.png), no-repeat;
+  background-size: 576px 576px;
+}
