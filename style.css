@@ -1,10 +1,22 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+#description {
+  font-size: 15px;
+  font-family: Outfit;
+  font-weight: 400, 700;
+}
 .attribution {
   font-size: 11px;
   text-align: center;
   color: hsl(228, 45%, 44%);
 }
-.QR {
-  color: blue;
-  background: url(./images/image-qr-code.png), no-repeat;
-  background-size: 576px 576px;
+.container {
+  padding: 20px 20px 20px 20px;
+  background-color: hsl(0, 0%, 100%);
+}
+img {
+  width: 257px;
+  height: 257px;
+  position: center;
 }
