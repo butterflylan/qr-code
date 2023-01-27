@@ -12,11 +12,13 @@ body {
   color: hsl(228, 45%, 44%);
 }
 .container {
-  padding: 20px 20px 20px 20px;
   background-color: hsl(0, 0%, 100%);
 }
 img {
   width: 257px;
   height: 257px;
   position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
